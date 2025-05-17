@@ -10,4 +10,3 @@ sudo mount -o loop disk.img mnt
 sudo mkdir -p mnt/EFI/BOOT
 sudo cp src/${EFI_FILE} mnt/EFI/BOOT/BOOTX64.EFI
 sudo umount mnt
-
