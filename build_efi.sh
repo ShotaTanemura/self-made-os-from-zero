@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cd src
+cd code
 make clean all
