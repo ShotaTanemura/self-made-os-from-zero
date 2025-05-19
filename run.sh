@@ -1,6 +1,6 @@
 #!/bin/sh
 
-./build_efi.sh
+./build_loader.sh
 
 ./build_img.sh
 
