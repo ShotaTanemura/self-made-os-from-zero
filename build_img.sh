@@ -1,3 +1,5 @@
+#!/bin/sh
+
 DISK_IMG="disk.img"
 EFI_FILE="BOOTX64.EFI"
 
